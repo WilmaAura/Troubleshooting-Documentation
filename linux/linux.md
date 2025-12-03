@@ -32,6 +32,11 @@ Add command like down below
 UUID=1234-ABCD   /mnt/windows   ntfs-3g   defaults,noatime,uid=1000,gid=1000,umask=022 0 0
 ```
 
+- uid = 1000, gid=1000 -> To get access without sudo
+- umask =022 ->
+- ntfs-3g -> A stable NTFS driver
+- defaults -> systemd's default options
+
 ### Testing fstab without reboot
 
 ```bash
