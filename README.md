@@ -1,8 +1,6 @@
 # 🛠️ Troubleshooting Documentation
 
-A collection of notes, solutions, and steps I've taken to fix various errors or technical problems. I'd like to add some tutorial as wel
-werwerwerewrwerwer
----
+## A collection of notes, solutions, and steps I've taken to fix various errors or technical problems. I'd like to add some tutorial as wel
 
 ## 🎯 Purposes
 
